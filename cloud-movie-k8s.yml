@@ -13,4 +13,4 @@ spring:
   redis: 
     host: ${CLOUD_MOVIE_REDIS_SERVICE_HOST}
     port: ${CLOUD_MOVIE_REDIS_SERVICE_PORT}
-name: 쿠버!!!!
+name: 쿠     버!!!!
