@@ -15,4 +15,4 @@ spring:
 logging:
   file: ../spring
   
-name: 안뇽3
+name: ~.~
